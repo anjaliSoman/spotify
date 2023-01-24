@@ -1,0 +1,29 @@
+
+	body{
+		background-color:#59c1bd;
+	}
+
+	h1,p{
+		font-family:candara;
+	}
+	
+	table,th,td{
+		border: solid 2px;
+		border-collapse: collapse;
+		background-color: #a0e4cb;
+		border-color: #59c1bd;
+	}
+	
+	tr{
+		font-family:Sans-serif;
+		height:35px;
+		text-align:center;
+		width: 20px;
+	}
+	table{
+		width:100%;
+		padding: 10px;
+	}
+	img{
+		width:100px;
+	}
